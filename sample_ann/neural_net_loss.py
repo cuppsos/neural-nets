@@ -1,6 +1,6 @@
 """
     AUTHOR: Owen Cupps
-    DATE: 05/27/2025
+    DATE: 05/26/2025
     
     DESCRIPTION:
     This script defines and trains a simple artificial neural network using NumPy.
